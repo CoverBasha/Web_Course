@@ -1,0 +1,215 @@
+﻿++Solution 'Web Course' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Web Course.sln
+++Web Course
+i:{00000000-0000-0000-0000-000000000000}:Web Course
+++Properties
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\properties\
+++AssemblyInfo.cs
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\properties\assemblyinfo.cs
+++References
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++Antlr3.Runtime
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++Microsoft.CSharp
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++Microsoft.Web.Infrastructure
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++Newtonsoft.Json
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.ComponentModel.DataAnnotations
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.Configuration
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.Core
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.Data
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.Data.DataSetExtensions
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.Drawing
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.EnterpriseServices
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.Net.Http
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.Net.Http.WebRequest
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.Web
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.Web.Abstractions
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.Web.ApplicationServices
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.Web.DynamicData
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.Web.Entity
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.Web.Extensions
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.Web.Helpers
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.Web.Mvc
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.Web.Optimization
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.Web.Razor
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.Web.Routing
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.Web.Services
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.Web.WebPages
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.Web.WebPages.Deployment
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.Web.WebPages.Razor
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.Xml
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++System.Xml.Linq
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++WebGrease
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:
+++App_Data
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\app_data\
+++App_Start
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\app_start\
+++BundleConfig.cs
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\app_start\routeconfig.cs
+++Content
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\content\
+++bootstrap-Lumen.css
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\content\bootstrap-lumen.css
+++bootstrap-theme.css
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\content\bootstrap.css
+++bootstrap.css.map
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\content\bootstrap.css.map
+++bootstrap.min.css
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\content\bootstrap.min.css.map
+++Site.css
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\content\site.css
+++Controllers
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\controllers\
+++CustomerController.cs
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\controllers\customercontroller.cs
+++HomeController.cs
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\controllers\homecontroller.cs
+++MovieController.cs
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\controllers\moviecontroller.cs
+++fonts
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\fonts\
+++glyphicons-halflings-regular.eot
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\fonts\glyphicons-halflings-regular.woff2
+++Models
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\models\
+++Customer.cs
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\models\customer.cs
+++Movie.cs
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\models\movie.cs
+++Scripts
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\scripts\
+++ViewModels
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\viewmodels\
+++RandomMovieViewModel.cs
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\viewmodels\randommovieviewmodel.cs
+++Views
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\views\
+++Customer
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\views\customer\
+++Details.cshtml
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\views\customer\details.cshtml
+++Index.cshtml
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\views\customer\index.cshtml
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\views\home\index.cshtml
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\views\movie\index.cshtml
+++Home
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\views\home\
+++About.cshtml
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\views\home\about.cshtml
+++Contact.cshtml
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\views\home\contact.cshtml
+++Movie
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\views\movie\
+++Random.cshtml
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\views\movie\random.cshtml
+++Shared
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\views\shared\
+++_Layout.cshtml
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\views\shared\_layout.cshtml
+++_NavBar.cshtml
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\views\shared\_navbar.cshtml
+++Error.cshtml
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\views\shared\error.cshtml
+++_ViewStart.cshtml
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\views\_viewstart.cshtml
+++Web.config
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\views\web.config
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\web.config
+++favicon.ico
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\favicon.ico
+++Global.asax
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\global.asax
+++Global.asax.cs
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\global.asax.cs
+++packages.config
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\packages.config
+++Web.Debug.config
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\web.debug.config
+++Web.Release.config
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\web.release.config
+++bootstrap.js
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\scripts\bootstrap.js
+++bootstrap.min.js
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\scripts\jquery-3.4.1.slim.min.map
+++jquery.validate-vsdoc.js
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\scripts\jquery.validate-vsdoc.js
+++jquery.validate.js
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\scripts\jquery.validate.js
+++jquery.validate.min.js
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\scripts\jquery.validate.min.js
+++jquery.validate.unobtrusive.js
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\scripts\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\scripts\jquery.validate.unobtrusive.min.js
+++modernizr-2.8.3.js
+i:{13d6f9b5-d965-4ead-8c40-c5b770691199}:c:\users\ahmed\source\repos\web course\web course\scripts\modernizr-2.8.3.js

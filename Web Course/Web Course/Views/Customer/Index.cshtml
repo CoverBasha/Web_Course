@@ -1,0 +1,41 @@
+﻿@using System.Web.Configuration
+@using System.Web.UI.WebControls
+@using Web_Course.Models
+@model IEnumerable<Web_Course.Models.Customer>
+@{
+	ViewBag.Title = "Index";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Customers</h2>
+
+@if (!Model.Any())
+{
+	<p>No customers yet</p>
+}
+else
+{
+	<table class="table table-bordered table-hover">
+
+		<thead>
+		<tr>
+			<th>Customer</th>
+		</tr>
+		</thead>
+
+		<tbody>
+		@foreach (var customer in Model)
+		{
+			<tr>
+				<td>
+					@Html.ActionLink(customer.Name,
+						"Details",
+						"Customer"
+						, new { id = customer.Id }, null);
+				</td>
+			</tr>
+		}
+		</tbody>
+
+	</table>
+}

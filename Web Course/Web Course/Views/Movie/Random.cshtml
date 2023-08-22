@@ -1,0 +1,30 @@
+﻿@using System.Web.Configuration
+@using Web_Course.Models
+@model Web_Course.ViewModels.RandomMovieViewModel
+
+@{
+	ViewBag.Title = "Random";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@{
+	var a7a = Model.Customers.Count > 5 ? "Popular neek" : null;
+}
+
+<h2 class="@a7a">@Model.Movie.Name</h2>
+
+@if (Model.Customers.Count == 0)
+{
+	<text>Ma7ade4 rented nothing</text>
+}
+else
+{
+	<ul>
+		@foreach (var lol in Model.Customers)
+		{
+			<li>@lol.Name</li>
+		}
+	</ul>
+}
+
